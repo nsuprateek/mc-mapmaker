@@ -2,7 +2,7 @@ import pandas as pd
 from bs4 import BeautifulSoup as bs
 import requests
 
-from ok import rgb_to_cielab
+from main import rgb_to_cielab
 
 url = 'https://minecraft.fandom.com/wiki/Map_item_format'
 
